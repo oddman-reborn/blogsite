@@ -1,0 +1,13 @@
+.mainmenu ul li:hover{background-color:#449D44;}
+.mainmenu ul li a{padding:10px;display:block;}
+.mainmenu ul li{width:130px;text-align:center;}
+
+.right-sidebar{border-left: 1px solid black;height:1000px;padding:5px}
+
+.main-view h2{padding:5px;color:#3F9800;text-align:center;}
+.main-view p{padding:15px;}
+.main-view input{width:450px;margin:20px};
+
+
+.right-sidebar ul li{list-style:none;}
+.right-sidebar ul li a{display:block;padding:5px;text-decoration:none;}
